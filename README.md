@@ -1,3 +1,10 @@
+
+Hi,i am Akil Bariya👋
+-🌱 I’m front end developer with react.js developer
+-🔭 I' have complete a BCA in 2024
+
+<hr>
+
 ### 🛠 Skills
 
 #### Frontend Development:
@@ -19,11 +26,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
+---
 
-### 💻: My Stats
 
-
+### 💻 My Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkilBariya7962&layout=compact&theme=default)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkilBariya7962&show_icons=true&theme=default)
 
+---
+
+### 📬 Contact Me
+- Email:(mailto:akilbariya7962@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/akil-bariya-452a7725a/)
+- GitHub: [AkilBariya7962](https://github.com/AkilBariya7962)
