@@ -1,5 +1,6 @@
 
-Hi,i am Akil Bariya👋
+Hi,i am Akil Bariya👋<br>
+<br>
 -🌱 I’m front end developer with react.js developer
 -🔭 I' have complete a BCA in 2024
 
